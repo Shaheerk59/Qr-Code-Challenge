@@ -33,6 +33,7 @@ body {
   text-align: center;
   padding: 1rem;
   border-radius: 1rem;
+  top-margin: 7rem;
 }
 img {
   display: block;
@@ -41,18 +42,17 @@ img {
   border-radius: 1rem;
 }
 h1 {
-  font-size: 1rem;
+  font-size: 1.3rem;
   font-weight: 700;
   color: var(--Dark-blue);
   margin-top: 1.875rem;
-  width: 15.5rem;
-  height: 2.6875rem;
+  padding: 1rem 0.6rem;
 }
 p {
   font-size: 0.9375rem;
   color: var(--Grayish-blue);
   font-weight: 400;
-  margin-top: 1.5625rem;
+ 
   margin-bottom: 2.75rem;
   width: 15.5rem;
 }
